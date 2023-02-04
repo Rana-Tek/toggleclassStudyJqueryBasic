@@ -1,6 +1,4 @@
 body{
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -95,8 +93,6 @@ body{
 }
 
 .wrapper{
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
     justify-content: center;
     align-items: center;
